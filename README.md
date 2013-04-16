@@ -9,6 +9,10 @@ Active
 ======
 
 * David J. Kordsmeier (Co-architect of SMILE Server for Node.js, SMILE Teacher for Android, SMILE Plug BSP in conjunction with Arch Linux ARM Team)
+* Shawn Kim (Project Manager - SMILE Global)
+* Noah Freedman (Technical Lead, SMILE Global)
+* Chi-Hou Vong (Technical Lead, SMILE AdHoc)
+* Juan Pinazo (Technical Lead SMILE Server)
 
 Inactive
 ========
