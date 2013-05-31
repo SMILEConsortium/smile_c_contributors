@@ -13,6 +13,7 @@ Active
 * Noah Freedman (Technical Lead, SMILE Global)
 * Chi-Hou Vong (Technical Lead, SMILE AdHoc)
 * Juan Pinazo (Technical Lead SMILE Server)
+  Charles Quelos (SMILE Student, SMILE Server)
 
 Inactive
 ========
