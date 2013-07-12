@@ -15,11 +15,11 @@ Active
 * Juan Pinazo (Technical Lead SMILE Server)
 * Charles Quelos (SMILE Student, SMILE Server)
 * Thiago Nogueira (SMILE Teacher for Android)
+* Sunmi Seol (original contributor on Junction and SMILE Ad Hoc for Android) 
 
 Inactive
 ========
 
-* Sunmi Seol (original contributor on Junction and SMILE Ad Hoc for Android) 
 
 Honorable Mentions
 ==================
